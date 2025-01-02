@@ -363,6 +363,7 @@ become an Angular expert.
 * [Offering Solutions](https://offering.solutions/trainings/)
 * [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
 * [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
+* [lowgular](https://courses.lowgular.edu.pl/) - The best courses for your career path as an Angular Frontend Developer.
 
 ##### On-Site Training
 
@@ -473,6 +474,7 @@ become an Angular expert.
 * [oculr-ngx](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 * [ngx-clarity](https://github.com/jadengis/ngx-clarity) - A useful Angular library that automatically injects the script tag required to use [Microsoft Clarity](https://clarity.microsoft.com/).
 * [ngx-piwik-pro](https://github.com/PiwikPRO/ngx-piwik-pro) - Dedicated [Piwik PRO](https://piwik.pro/) library that helps with implementing Piwik PRO Tag Manager and the Piwik PRO tracking client in Angular 8+ applications.
+* [ngx-material-tracking](https://github.com/Service-Soft/ngx-material-tracking) - Provides gdpr-compliant tracking functionality for Angular websites. Google Analytics and Meta Pixel are supported out of the box, but you are also able to build your own tracking.
 
 #### Authentication
 
@@ -501,6 +503,7 @@ become an Angular expert.
 * [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
 * [ngxfire](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
 * [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - [FusionAuth](https://fusionauth.io/) SDK helps manage authentication state for your Angular app and provides functionality to login, register, and logout users. It also can be configured to automatically manage your refresh token.
+* [lbx-jwt](https://github.com/Service-Soft/lbx-jwt) - Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.
 
 #### Builders
 
@@ -636,6 +639,7 @@ become an Angular expert.
 * [ngx-suspense-of](https://github.com/Celtian/ngx-suspense-of) - Angular directive that adds suspense to your app.
 * [ngx-http-request-state](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
 * [ngs-request-tracker](https://github.com/andrei-shpileuski/ngs-request-tracker) - A library for tracking, storing, and displaying statistics on all HTTP requests.
+* [ngx-pwa](https://github.com/Service-Soft/ngx-pwa) - Provides additional functionality around Angular pwa's. Most notably being able to cache and sync POST/PATCH/DELETE Requests.
 
 #### Integrations
 
@@ -952,6 +956,7 @@ become an Angular expert.
 * [ngx-connection-beam](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
 * [ngx-countUp](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 * [ngx-animated-counter](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
+* [ngx-dom-confetti](https://github.com/damingerdai/ngx-dom-confetti) - Celebrate success with dom confetti on Angular projects!
 
 #### Breadcrumbs
 
@@ -1003,6 +1008,7 @@ become an Angular expert.
 * [ngx-simple-gallery](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
 * [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 * [ngx-custom-carousel](https://github.com/devendramilmile121/ngx-custom-carousel) - A feature-rich Angular 17 component crafted to elevate your carousel experience.
+* [ngx-edge-slider](https://github.com/WingmanColt/ngx-edge-slider) - Highly flexible and customizable slider component designed for Angular applications. It offers an intuitive interface to manage slides, providing smooth transitions, autoplay functionality, responsive design, with interactive features like draggable slides and configurable navigation.
 
 #### Charts
 
@@ -1301,6 +1307,7 @@ to simplify usage and allow quick customization.
 * [ngx-smart-cropper](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
 * [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
+* [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
 
 #### Keyboard Mouse
 
@@ -1433,6 +1440,7 @@ to simplify usage and allow quick customization.
 * [ssv.ngx](https://github.com/sketch7/ssv.ngx) - Mono-repo of libraries from [sketch7](https://github.com/sketch7). [ngx.command](https://github.com/sketch7/ssv.ngx/tree/master/libs/ngx.command#readme) is a command pattern implementation for Angular. [ngx.ux](https://github.com/sketch7/ssv.ngx/blob/master/libs/ngx.ux/README.md) provides UX essentials and utilities for building apps.
 * [ng-kit](https://github.com/js-smart/ng-kit) - Reusable Angular components built with Angular Material and Bootstrap 5.x, Utility classes/functions for Date, Form and String operations.
 * [nxt-components](https://github.com/Liquid-JS/nxt-components) - A collection of various Angular components.
+* [ngx-signal-plus](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
 
 #### Modals
 
@@ -1634,15 +1642,18 @@ to simplify usage and allow quick customization.
 * [Covalent](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
 * [IgniteUI Angular](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
 * [Alyle UI](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
-* [angular-material-extensions/google-maps-autocomplete](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
-* [angular-material-extensions/select-country](https://github.com/angular-material-extensions/select-country)
-* [angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
+* [@angular-material-extensions/google-maps-autocomplete](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
+* [@angular-material-extensions/select-country](https://github.com/angular-material-extensions/select-country)
+* [@angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
 * [angular material components](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
-* [ng-matero/extensions](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
+* [@ng-matero/extensions](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
 * [angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with Angular Material.
 * [ngx-components](https://github.com/DSI-HUG/ngx-components) - Useful components and utility functions for Angular.
 * [dejajs-components](https://github.com/DSI-HUG/dejajs-components) - This repository is an Angular components library and the common utility functions, with a demo application for testing it.
+* [ngx-material-auth](https://github.com/Service-Soft/ngx-material-auth) - A library for Angular which provides functionality around the frontend part of authentication and authorization.
+* [ngx-material-navigation](https://github.com/Service-Soft/ngx-material-navigation) - Builds material navigation elements like a combined navbar and sidenav or footers based on the supplied configuration data. Will automatically move elements from the navbar to the sidenav at the provided breakpoints.
+* [ngx-material-entity](https://github.com/Service-Soft/ngx-material-entity) - With `NgxMaterialEntity` you can create entities and define how to display them directly on their properties. It can even generate complete and highly customizable CRUD-Tables.
 
 ##### Bootstrap Based
 
@@ -1652,6 +1663,7 @@ for Bootstrap 5 & Angular 17.
 * [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine).
 * [design-angular-kit](https://github.com/italia/design-angular-kit) - A toolkit based on Bootstrap Italia
 for the creation of web applications developed with Angular.
+* [ngx-bootstrap-components](https://github.com/dotted-labs/ngx-bootstrap-components) - This library provides a set of Angular components integrated with Bootstrap, designed to be used with Angular's latest features like signals and the OnPush change detection strategy. The components are standalone, meaning they can be imported directly without the need for an encompassing Angular module.
 
 ##### Tailwind CSS Based
 
@@ -1734,6 +1746,8 @@ for the creation of web applications developed with Angular.
 * [ngx-route-manager](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 * [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 * [ngs-json-utils](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
+* [lbx-change-sets](https://github.com/Service-Soft/lbx-change-sets) - This package helps you to track changes made on your entities automatically using a base repository class to extend from.
+* [ngememoize](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
 
 ---
 
